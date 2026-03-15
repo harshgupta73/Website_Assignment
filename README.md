@@ -47,3 +47,9 @@ The website will open in your browser and you can navigate through the pages suc
 
 ## 📷 Screenshots of the Pages
 ![alt text](/images/homeReadme.png)
+
+
+<p align="center">
+    <img src="/images/aboutReadme.png" width="45%" height="45%">
+    <img src="/images/contactReadme.png" width="45%" height="45%">
+</p>
